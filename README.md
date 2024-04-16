@@ -24,9 +24,11 @@ This repository contains the implementation and application of an exemplar-based
     $$D(p) = | \nabla I_p \cdot n_p |$$
     where \(\nabla I_p\) is the image gradient and $n_p$ is the normal to the patch boundary.
 
-- `Bouregreg.ipynb`, `Hassan_&_Zellij.ipynb`, `Kasbah_of_Udaya.ipynb`: Jupyter notebooks containing the application of the inpainting algorithm to the respective images mentioned in their titles.
-  ![Images of landmarks and patterns](Images/images.jpg)
-
+- `Bouregreg.ipynb`: Application of the inpainting algorithm to the Bouregreg image.
+- `Hassan_&_Zellij.ipynb`: Application of the inpainting algorithm to the Hassan & Zellij image.
+- `Kasbah_of_Udaya.ipynb`: Application of the inpainting algorithm to the Kasbah of Udaya image.
+  
+![Images of landmarks and patterns](Images/images.jpg)
 
 
 - `Exemplar_Based_Inpainting_for_Object_Removal_and_Image_Restoration.pdf`: A detailed report summarizing the methods used and the results achieved.
