@@ -25,7 +25,9 @@ This repository contains the implementation and application of an exemplar-based
     where \(\nabla I_p\) is the image gradient and $n_p$ is the normal to the patch boundary.
 
 -  `Synthetic_images.ipynb`: A Jupyter notebook demonstrating the application of the inpainting method to synthetic images.
-![Images of landmarks and patterns](Images/BW_RGB.jpg)
+  
+![Synthetic Images](Images/BW_RGB.jpg)
+
 - `Bouregreg.ipynb`: Application of the inpainting algorithm to the Bouregreg image.
 - `Hassan_&_Zellij.ipynb`: Application of the inpainting algorithm to the Hassan & Zellij image.
 - `Kasbah_of_Udaya.ipynb`: Application of the inpainting algorithm to the Kasbah of Udaya image.
