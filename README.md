@@ -25,7 +25,7 @@ This repository contains the implementation and application of an exemplar-based
     where \(\nabla I_p\) is the image gradient and $n_p$ is the normal to the patch boundary.
 
 - `Bouregreg.ipynb`, `Hassan_&_Zellij.ipynb`, `Kasbah_of_Udaya.ipynb`: Jupyter notebooks containing the application of the inpainting algorithm to the respective images mentioned in their titles.
-  ![Images of landmarks and patterns](images/images.jpg)
+  ![Images of landmarks and patterns](Images/images.jpg)
 
 
 - `Exemplar_Based_Inpainting_for_Object_Removal_and_Image_Restoration.pdf`: A detailed report summarizing the methods used and the results achieved.
