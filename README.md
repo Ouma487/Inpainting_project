@@ -53,5 +53,5 @@ This project is licensed under the GNU General Public License v3.0 - see the [LI
 
 ## Acknowledgements
 
-- The project is based on the method pioneered by Criminisi et al., and further resources can be found in the provided report.
+- The project is based on the method pioneered by Criminisi et al., Object Removal by Exemplar Based Inpaiting paper.
 - Thanks to the computer vision community for providing insights and valuable discussions that helped shape this project.
