@@ -17,12 +17,12 @@ This repository contains the implementation and application of an exemplar-based
     #### Confidence Term \(C(p)\)
     The confidence term represents the amount of reliable information in a patch and is given by:
     $$C(p) = \frac{\sum_{i \in \psi_p} C(i)}{|\psi_p|}$$
-    where \(|\psi_p|\) is the area of the patch.
+    where $|\psi_p|$ is the area of the patch.
 
     #### Data Term $D(p)$
     The data term promotes patch filling in areas with strong edges, calculated using the image gradient at the patch border:
     $$D(p) = | \nabla I_p \cdot n_p |$$
-    where \(\nabla I_p\) is the image gradient and $n_p$ is the normal to the patch boundary.
+    where $\nabla I_p$ is the image gradient and $n_p$ is the normal to the patch boundary.
 
 -  `Synthetic_images.ipynb`: A Jupyter notebook demonstrating the application of the inpainting method to synthetic images.
   
